@@ -1,0 +1,46 @@
+.s1{
+    width: 300px;
+    height: 100px;
+    align-items: center;
+}
+
+
+.banano{
+    width: 400px;
+    height: 45px;
+
+}
+.cuadro1{
+    width: 230px;
+    height: 60px;
+    background-color: aqua;
+
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.emoji1{
+    justify-content: center;
+}
+
+.fresa{
+    width: 360px;
+    height: 45px;
+}
+.c1s2{
+    width: 100px;
+    height: 175px;
+    background-color: aqua;
+
+    display: flex;
+}
+.c2s2{
+    width: 100px;
+    height: 175px;
+    background-color: #f700ff;
+    
+    display: flex;
+    justify-content: end;
+    padding-right: 0px 60px;
+}
